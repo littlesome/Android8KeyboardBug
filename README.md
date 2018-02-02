@@ -1,5 +1,8 @@
 # Android8KeyboardBug
 
+issue https://issuetracker.google.com/issues/72809576
+
+
 ```
 android:hardwareAccelerated="false"
 ```
